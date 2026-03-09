@@ -8,7 +8,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 * 📊 Passionate about **Data Science and Artificial Intelligence**
 * 🌱 Currently learning **Python, Machine Learning & AI**
 * 🎮 Gamer | **VALORANT** player
-* 📫 Reach me at: **saharshps@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me at: **saharshps@gmail.com**
 
 ---
 
