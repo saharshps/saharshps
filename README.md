@@ -20,7 +20,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png"/>
