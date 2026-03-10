@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 * 🌱 Currently learning **Python, Machine Learning, AI, Data Analysis**
 * 📈 Skilled in **Excel, Tableau, Power BI for Data Visualization**
 * 🎮 Gamer | **VALORANT** player
-* 📫 Reach me at: **saharshps@gmail.com**
+* 📫 Reach me at: **[saharshps@gmail.com](mailto:saharshps@gmail.com)**
 
 ---
 
@@ -20,9 +20,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png"/>
 </p>
 
 ---
