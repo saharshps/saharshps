@@ -26,4 +26,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=folio)](https://foliobuilder.lovable.app/p/saharsh)
+---
+
+### 🌟 Check Out My Portfolio
+Want to see my projects, skills, and work? [Click here to view my portfolio!](https://foliobuilder.lovable.app/p/saharsh) 🚀
