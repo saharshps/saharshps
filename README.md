@@ -26,3 +26,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=folio)](https://foliobuilder.lovable.app/p/saharsh)
