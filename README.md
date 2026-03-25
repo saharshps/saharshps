@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 Student at **MGR University**
 * 📊 Passionate about **Data Science, Data Analytics & Artificial Intelligence**
-* 🌱 Currently learning **Python, Machine Learning, AI, Data Analysis**
+* 🌱 Currently learning **Python, Machine Learning, AI**
 * 📈 Skilled in **Excel, Tableau, Power BI for Data Visualization**
 * 🎮 Gamer | **VALORANT** player
 * 📫 Reach me at: **[saharshps@gmail.com](mailto:saharshps@gmail.com)**
