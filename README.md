@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saharsh</h1>
-<h3 align="center">Aspiring Data Scientist & Data Analyst | AI & Machine Learning Learner</h3>
+<h3 align="center">Aspiring Data Scientist & Data Analyst | AI & ML Learner</h3>
 
 <img align="right" alt="coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
