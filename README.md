@@ -15,18 +15,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 🧠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" />
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png"/>
 </p>
+
 ---
 
 ### 🌟 Check Out My Portfolio
