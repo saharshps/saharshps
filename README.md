@@ -15,15 +15,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 🧠 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 <p>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://img.icons8.com/color/48/jupyter.png"/>
+  <img src="https://img.icons8.com/color/48/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
 </p>
-
 ---
 ---
 
